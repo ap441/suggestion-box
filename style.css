@@ -2,12 +2,15 @@
     background: blueviolet;
 }
 
-.inptbox {
+.suggestion {
     background: white;
     display: flex;
     position: absolute;
-    left: 43%;
+    left: 35%;
     top: 10%;
-    border: none;
-    
+    border: none; 
+    width: 30vw;
 }
+
+
+
