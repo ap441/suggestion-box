@@ -1,0 +1,13 @@
+*{
+    background: blueviolet;
+}
+
+.inptbox {
+    background: white;
+    display: flex;
+    position: absolute;
+    left: 43%;
+    top: 10%;
+    border: none;
+    
+}
