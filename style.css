@@ -2,7 +2,7 @@
     background: blueviolet;
 }
 
-.suggestion {
+#inptbox {
     background: white;
     display: flex;
     position: absolute;
@@ -10,6 +10,26 @@
     top: 10%;
     border: none; 
     width: 30vw;
+}
+
+.rsltbox{
+    display: flex;
+    flex-direction: row;
+    width: 30.3vw;
+    background: white;
+    position: absolute;
+    left: 35%;
+    top: 13%;
+}
+
+.rsltbox ul{
+    background: white;
+    list-style: none;
+    
+}
+
+.rsltbox ul:hover {
+    cursor: pointer;
 }
 
 
