@@ -9,23 +9,28 @@
     left: 35%;
     top: 10%;
     border: none; 
-    width: 30vw;
+    width: 30%;
+    height: 3%;
 }
 
 .rsltbox{
     display: flex;
-    flex-direction: row;
-    width: 30.3vw;
+    width: 30.3%;
     background: white;
     position: absolute;
     left: 35%;
-    top: 13%;
+    top: 14%;
+    border: none;
 }
 
 .rsltbox ul{
     background: white;
     list-style: none;
-    
+    padding: 0px 2px;
+}
+
+.rsltbox ul li{
+    background: white;
 }
 
 .rsltbox ul:hover {
